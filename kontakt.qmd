@@ -1,0 +1,20 @@
+---
+title: "Kontakt"
+---
+
+::: text-center
+![Anna Andersen](/images/banner.png){fig-alt="Image of Anna Andersen" .profile-picture}
+:::
+
+<!--
+The "code" for adding a "profile-picture" (which is an image with
+rounded corners) has the same elements as the image example above, but 
+with a different class in the `{}` part, namely `.profile-picture`.
+
+The `text-center` part is a class that centers the image text on the page,
+which is the text in the `[]` part. 
+
+You can remove `text-center` along
+with the `:::` before and after the image if you want the text to be
+left-aligned.
+-->

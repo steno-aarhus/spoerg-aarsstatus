@@ -1,0 +1,30 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "Spørg til årsstatus"
+  site-url: "https://steno-aarhus.github.io/spoerg-aarsstatus/"
+  repo-url: "https://github.com/steno-aarhus/spoerg-aarsstatus"
+  navbar:
+    left: 
+      - text: "For dig med diabetes"
+        href: for-dig-med-diabetes.qmd
+      - text: "For almen praksis"
+        href: for-almen-praksis.qmd
+      - text: "Om projektet"
+        href: om-projektet.qmd
+      - text: "Kontakt"
+        href: kontakt.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/spoerg-aarsstatus"
+format:
+  sdca-theme-html:
+    theme:
+      - brand
+      - custom-styles.scss
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true

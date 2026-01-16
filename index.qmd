@@ -1,0 +1,15 @@
+---
+title-block-banner: true
+title: "Spørg til årsstatus"
+subtitle: "Tarmkræftscreening som en del af diabetesomsorgen"
+listing: 
+    contents: 
+        - for-dig-med-diabetes.qmd
+        - for-almen-praksis.qmd
+    type: grid
+    sort: [for-dig-med-diabetes.qmd, for-almen-praksis.qmd]
+    grid-columns: 2
+    fields: [title, subtitle]
+---
+
+Kort tekst om projektet ...
