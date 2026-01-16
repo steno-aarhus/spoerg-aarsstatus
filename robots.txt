@@ -1,0 +1,1 @@
+Sitemap: https://steno-aarhus.github.io/spoerg-aarsstatus/sitemap.xml
