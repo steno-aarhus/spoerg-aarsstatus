@@ -2,9 +2,16 @@
 title: "Kontakt"
 ---
 
+Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.
+
+
 ::: text-center
-![Anna Andersen](/images/banner.png){fig-alt="Image of Anna Andersen" .profile-picture}
+![Tinne Laurberg](/images/tinne_laurberg.png){fig-alt="Image of Tinne Laurberg" .profile-picture}
 :::
+
+Projektansvarlig 
+📧 tinlaurb\@rm.dk\
+
 
 <!--
 The "code" for adding a "profile-picture" (which is an image with
