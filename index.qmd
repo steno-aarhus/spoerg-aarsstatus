@@ -12,4 +12,12 @@ listing:
     fields: [title, subtitle]
 ---
 
-Kort tekst om projektet ...
+
+![illustration](images/harduindsendt.png)
+
+# Velkommen
+
+
+Denne hjemmeside samler information om et projekt, der skal øge deltagelsen i tarmkræftscreening blandt personer med type 2-diabetes. 
+Her kan du finde indhold målrettet både patienter og almen praksis samt læse mere om projektets formål og kontaktpersoner.
+
