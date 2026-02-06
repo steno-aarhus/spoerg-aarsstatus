@@ -6,7 +6,7 @@ Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.
 
 
 ::: text-center
-![Tinne Laurberg](/images/tinne_laurberg.png){fig-alt="Image of Tinne Laurberg" .profile-picture}
+![Tinne Laurberg](/images/tinne-laurberg.png){fig-alt="Image of Tinne Laurberg" .profile-picture}
 :::
 
 **Projektansvarlig** 

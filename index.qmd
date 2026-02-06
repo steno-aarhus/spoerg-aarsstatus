@@ -13,7 +13,7 @@ listing:
 ---
 
 
-![illustration](images/harduindsendt.png)
+![illustration](/images/har-du-indsendt.png)
 
 # Velkommen
 
