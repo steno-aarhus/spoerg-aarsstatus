@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "kontakt.html",
+    "href": "kontakt.html",
+    "title": "Kontakt",
+    "section": "",
+    "text": "Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.\n\n\n\n\nTinne Laurberg\n\n\n\nProjektansvarlig Tinne Laurberg Overlæge og klinisk lektor i patologi 📧 tinlaurb@rm.dk"
+  },
+  {
+    "objectID": "for-almen-praksis.html",
+    "href": "for-almen-praksis.html",
+    "title": "For almen praksis",
+    "section": "",
+    "text": "🚧 Siden er under opbygning\nTak for din tålmodighed – nyt indhold er på vej."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Spørg til årsstatus",
     "section": "",
-    "text": "Kort tekst om projektet …\n\n\n\n\n\n\n\n\n\n\n\nFor dig med diabetes\n\n\nDiabetes og tarmkræftscreening\n\n\n\n\n\n\n\n\n\nFor almen praksis\n\n\nTarmkræftscreening som en del af diabetesomsorgen\n\n\n\n\n\nNo matching items"
+    "text": "illustration\n\n\n\nVelkommen\nDenne hjemmeside samler information om et projekt, der skal øge deltagelsen i tarmkræftscreening blandt personer med type 2-diabetes. Her kan du finde indhold målrettet både patienter og almen praksis samt læse mere om projektets formål og kontaktpersoner.\n\n\n\n\n\n\n\n\n\n\n\n\nFor dig med diabetes\n\n\nDiabetes og tarmkræftscreening\n\n\n\n\n\n\n\n\n\nFor almen praksis\n\n\nTarmkræftscreening som en del af diabetesomsorgen\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "LICENSE.html",
@@ -14,10 +28,10 @@
     "text": "MIT License\nCopyright (c) 2024 Steno Diabetes Center Aarhus\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "kontakt.html",
-    "href": "kontakt.html",
-    "title": "Kontakt",
+    "objectID": "for-dig-med-diabetes.html",
+    "href": "for-dig-med-diabetes.html",
+    "title": "For dig med diabetes",
     "section": "",
-    "text": "Anna Andersen"
+    "text": "🚧 Siden er under opbygning\nTak for din tålmodighed – nyt indhold er på vej."
   }
 ]
