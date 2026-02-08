@@ -18,6 +18,10 @@ website:
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/spoerg-aarsstatus"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Denne hjemmeside er under udvikling. Nogle sider kan mangle indhold eller være midlertidigt utilgængelige."
 format:
   sdca-theme-html:
     theme:
