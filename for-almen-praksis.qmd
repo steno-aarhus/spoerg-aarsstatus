@@ -2,7 +2,7 @@
 title: "For almen praksis"
 subtitle: "Tarmkræftscreening som en del af diabetesomsorgen"
 ---
-📌 Hop til: [📋 Tilmelding](#tilmelding) | [❓ FAQ](#FAQ – typiske spørgsmål) | [💻 E-læring](#e-læring) | [📂 Materialer](#materialer)
+📌 Hop til: [📋 Tilmelding](#tilmelding) | [❓ FAQ](#FAQ–typiske-spørgsmål) | [💻 E-læring](#e-læring) | [📂 Materialer](#materialer)
 
 ### Om projektet
 Projektet afprøver en enkel indsats, hvor tarmkræftscreening systematisk indgår i årskontrollen for patienter med type 2-diabetes.
