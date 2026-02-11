@@ -10,10 +10,12 @@ Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.
 :::
 
 **Projektansvarlig** 
-Tinne Laurberg
-Overlæge og klinisk lektor i patologi 
-📧 tinlaurb\@rm.dk\
 
+Tinne Laurberg, overlæge og klinisk lektor i patologi 
+
+📧 tinlaurb\@rm.dk
+
+☎️ 20 33 30 09
 
 <!--
 The "code" for adding a "profile-picture" (which is an image with
