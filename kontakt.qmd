@@ -20,7 +20,7 @@ Tinne Laurberg, overlæge og klinisk lektor i patologi
 Er du samarbejdspartner eller har spørgsmål til projektflow i almen praksis kan du kontakte projektkoordinator.
 
 ::: text-center
-![Tina Quist](/images/tina maj_farve.jpg){fig-alt="Image of Tina Quist" .profile-picture}
+![Tina Quist](/images/Tina.jpg){fig-alt="Image of Tina Quist" .profile-picture}
 :::
 
 **Projektkoordinator** 
