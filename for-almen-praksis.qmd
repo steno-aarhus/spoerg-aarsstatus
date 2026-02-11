@@ -65,7 +65,7 @@ Projektet gennemføres i overensstemmelse med gældende regler for databeskyttel
 Ved projektets afslutning indsendes to af klinikkens nøgletal tal via en sikker formular:
 
 - Antal patienter i målgruppen (Type 2-diabetes, 50-74 år)
-- Antal gennemførte årskontroller blandt patienter i målgruppen i projektperioden
+- Antal patienter i målgruppen med gennemført årskontrol i projektperioden
 
 Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekstra honorar)
 </details>
