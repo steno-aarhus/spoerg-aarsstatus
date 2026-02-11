@@ -19,8 +19,7 @@ Indsatsen består af tre enkle trin:
 Læs mere om projektet, samarebejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
 ### Honorar 
-Klinikken honoreres med 150 kr. pr. registreret patient samt et administrationshonorar på 1.000 kr.
-Enkelte klinikker inviteres til et kort opfølgende interview (honoreres særskilt).
+Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen.
 
 ## 📋 Tilmelding
 Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026.
@@ -51,7 +50,7 @@ Klinikken gennemfører kort elektronisk oplæringsmateriale og kan derefter begy
 ☎️ 24 34 63 47 </details> 
 
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
-Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft.  Det vil sige patienter i alderen 50-74 år</details>
+Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
 
  <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
 Interventionen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
@@ -60,6 +59,15 @@ Registrering sker via en enkel onlineformular. </details>
 
  <details> <summary><strong>Hvordan håndteres data og patientoplysninger?</strong></summary>
 Projektet gennemføres i overensstemmelse med gældende regler for databeskyttelse. Der indsamles kun de nødvendige oplysninger, og data behandles fortroligt.
+</details>
+
+ <details> <summary><strong>Er der andre opgaver i almen praksis?</strong></summary>
+Ved projektets afslutning indsendes to af klinikkens nøgletal tal via en sikker formular:
+
+- Antal patienter i målgruppen (Type 2-diabetes, 50-74 år)
+- Antal gennemførte årskontroller blandt patienter i målgruppen i projektperioden
+
+Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekstra honorar)
 </details>
 
 ## 💻 E-læring
