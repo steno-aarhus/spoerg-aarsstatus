@@ -17,6 +17,28 @@ Tinne Laurberg, overlæge og klinisk lektor i patologi
 
 ☎️ 20 33 30 09
 
+Er du samarbejdspartner eller har spørgsmål til projektflow i almen praksis kan du kontakte projektkoordinator.
+
+::: text-center
+![Tina Quist](/images/tina maj_farve.jpg){fig-alt="Image of Tina Quist" .profile-picture}
+:::
+
+**Projektkoordinator** 
+
+Tina Quist
+📧 tina.quist\@rm.dk
+
+☎️ 24 34 63 47
+
+Har du spørgsmål om screeningsprogrammet, kan du kontakte Afdeling for for Folkeundersøgelser
+
+**Afdeling for Folkeundersøgelser**
+
+☎️  78 42 01 70
+Telefontid: Alle hverdage kl. 9.00-11.00
+[📧 Skriv en sikker e-mail til os (Hav dit MitID klar)](https://post.borger.dk/send/870b5cbe-4842-4a0e-b427-dc29c439cbc7/e90ead4f-a25c-4b7b-aed8-07ba2bf22f1b)
+
+
 <!--
 The "code" for adding a "profile-picture" (which is an image with
 rounded corners) has the same elements as the image example above, but 
