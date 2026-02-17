@@ -20,7 +20,7 @@ Derudover indsamles erfaringer via frivillige interviews med både patienter og 
 
 Se figur over projektets procesflow for den enkelte patient herunder. 
 
-![Projektflow på patientniveau](images/Projektflow_patient.png)
+![Projektflow på patientniveau](images/Procesflow_patient.png)
 
 ## Formål
 Projektet har til formål at:
