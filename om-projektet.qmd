@@ -3,7 +3,7 @@ title: "Om projektet"
 ---
 
 ## Baggrund
-Personer med type 2-diabetes har ca. 25 % øget risiko for at udvikle tarmkræft sammenlignet med baggrundsbefolkningen. Samtidig deltager personer med type 2-diabetes i mindre grad i det nationale screeningsprogram for tarmkræft [Laurberg et al. 2023.](https://onlinelibrary.wiley.com/doi/10.1111/dme.15043).
+Personer med type 2-diabetes har ca. 25 % øget risiko for at udvikle tarmkræft sammenlignet med baggrundsbefolkningen. Samtidig deltager personer med type 2-diabetes i mindre grad i det nationale screeningsprogram for tarmkræft [(Laurberg et al. 2023.)](https://onlinelibrary.wiley.com/doi/10.1111/dme.15043)
 
 Tidlig opsporing gennem screening er en veldokumenteret og effektiv metode til at reducere både forekomst og dødelighed af tarmkræft. 
 
