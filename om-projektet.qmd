@@ -18,8 +18,9 @@ Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læ
 Efter konsultationen validerer screeningsenheden oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt testkit.  
 Derudover indsamles erfaringer via frivillige interviews med både patienter og praksispersonale.
 
-*Se figur over projektets procesflow for den enkelte patient herunder.*
-![Projektflow på patientniveau](/images/projektflowhar-på-ptientniveau.png)
+Se figur over projektets procesflow for den enkelte patient herunder. 
+
+![Projektflow på patientniveau](/images/projektflow-på-patientniveau.png)
 
 ## Formål
 Projektet har til formål at:
