@@ -53,17 +53,30 @@ Projektet er delvist finansieret af Kræftens Bekæmpelse.
 ## Projektgruppe
 
 **Projektansvarlige**
-- **Steno Diabetes Center Aarhus:** Tinne Laurberg  
-- **Afdeling for Folkeundersøgelser:** Berit Andersen  
 
-**Projektmedarbejdere – Steno Diabetes Center Aarhus**
-- Kasper Munch Lauridsen  
-- Tina Quist  
+- **Steno Diabetes Center Aarhus:** 
 
-**Projektmedarbejdere – Afdeling for Folkeundersøgelser**
-- Hejdi Petersen  
-- Kirstine Neander  
-- Anders Sønderup Nissen  
+Tinne Laurberg  
+
+- **Afdeling for Folkeundersøgelser:** 
+
+Berit Andersen  
+
+**Projektmedarbejdere** 
+
+-**Steno Diabetes Center Aarhus**
+
+Kasper Munch Lauridsen  
+
+Tina Quist  
+
+-**Afdeling for Folkeundersøgelser**
+
+Hejdi Petersen
+
+Kirstine Neander 
+
+Anders Sønderup Nissen  
 
 For kontaktoplysninger henvises til vores [kontaktside](kontakt.qmd).
 
