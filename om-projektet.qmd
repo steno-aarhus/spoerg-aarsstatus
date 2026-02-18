@@ -12,6 +12,18 @@ Screeningsprogrammet anbefales til alle personer i aldersgruppen 50–74 år af 
 En kort, struktureret samtale i forbindelse med den årlige diabeteskontrol i almen praksis kan være en lavtærsklet og effektiv indsats til at øge deltagelsen i tarmkræftscreening blandt personer med type 2-diabetes. 
 
 ## Hvad går projektet ud på?
+Selve interventionen bygger på VBA-metoden kendt fra rygestop. VBA er en forkortelse af Very Brief Advise og et væsentligt element er at der ikke er rigtige eller forkerte svar.
+VBA metoden for rygestop er bygget op om tre elementer; spørg, rådgiv, henvis. 
+
+Vi vil bruge VBA-metoden til at få flere borgere med type 2-diabetes til at deltage i screening for tarmkræft. 
+
+Samtalen om deltagelse i screening for tarmkræft tager ca. 2 minutter og integreres naturligt i årsstatus for diabetes. Samtalen kan udføres af alle medarbejdere i klinikken og kan også placeres ved prøvetagning forud for årsstatus.
+Samtalen er bygget op med følgende elementer
+
+- **Spørg:** "Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?"
+- **Rådgiv:** Giv kort information om øget risiko og mulighederne ved screening
+- **Tilmeld:** Bestil et testkit til patienten
+
 Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læge, bliver de spurgt:
 
 **“Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?”**
@@ -19,7 +31,9 @@ Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læ
 - Hvis patienten **har** deltaget, registreres svaret, og der udleveres informationsmateriale.  
 - Hvis patienten **ikke har** deltaget, gives kort information, og der tilbydes hjælp til at bestille et testkit.
 
-Efter konsultationen validerer screeningsenheden oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt testkit.  
+Almen praksis registrerer alle svar og foretager eventuel bestilling via online formular hos Afdeling for Folkesundhed.
+
+Efter konsultationen validerer Afdeling for Folkesundhed oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt testkit.  
 Derudover indsamles erfaringer via frivillige interviews med både patienter og praksispersonale.
 
 Se figur over projektets procesflow for den enkelte patient herunder. 
