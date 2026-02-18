@@ -13,12 +13,13 @@ En kort, struktureret samtale i forbindelse med den årlige diabeteskontrol i al
 
 ## Hvad går projektet ud på?
 Selve interventionen bygger på VBA-metoden kendt fra rygestop. VBA er en forkortelse af Very Brief Advise og et væsentligt element er at der ikke er rigtige eller forkerte svar.
-VBA metoden for rygestop er bygget op om tre elementer; spørg, rådgiv, henvis. 
 
 Vi vil bruge VBA-metoden til at få flere borgere med type 2-diabetes til at deltage i screening for tarmkræft. 
 
-Samtalen om deltagelse i screening for tarmkræft tager ca. 2 minutter og integreres naturligt i årsstatus for diabetes. Samtalen kan udføres af alle medarbejdere i klinikken og kan også placeres ved prøvetagning forud for årsstatus.
-Samtalen er bygget op med følgende elementer
+Samtalen om deltagelse i screening for tarmkræft tager ca. 2 minutter og integreres naturligt i årsstatus for diabetes. 
+Samtalen kan udføres af alle medarbejdere i klinikken og kan også placeres ved prøvetagning forud for årsstatus.
+
+VBA-metoden består af følgende elementer:
 
 - **Spørg:** "Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?"
 - **Rådgiv:** Giv kort information om øget risiko og mulighederne ved screening
@@ -82,13 +83,13 @@ Berit Andersen
 
 **Projektmedarbejdere** 
 
--**Steno Diabetes Center Aarhus**
+- **Steno Diabetes Center Aarhus**
 
 Kasper Munch Lauridsen  
 
 Tina Quist  
 
--**Afdeling for Folkeundersøgelser**
+- **Afdeling for Folkeundersøgelser**
 
 Hejdi Petersen
 
