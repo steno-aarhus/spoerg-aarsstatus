@@ -3,6 +3,7 @@ title-block-banner: true
 title: "Spørg til årsstatus"
 subtitle: "Tarmkræftscreening som en del af diabetesomsorgen"
 listing: 
+    id: listing
     contents: 
         - for-dig-med-diabetes.qmd
         - for-almen-praksis.qmd
@@ -12,12 +13,19 @@ listing:
     fields: [title, subtitle]
 ---
 
-
-![illustration](/images/har-du-indsendt.png)
+![](/images/har-du-indsendt.png){fig-alt="Illustration af en læge spørger patient om tarmkræftscreening, der viser tre trin: Spørg, Rådgiv, Tilmeld – på 2 minutter."}
 
 # Velkommen
 
+Denne hjemmeside samler information om et projekt, der skal øge
+deltagelsen i tarmkræftscreening blandt personer med type 2-diabetes.
+Her kan du finde indhold målrettet både patienter og almen praksis samt
+læse mere om projektets formål og kontaktpersoner.
 
-Denne hjemmeside samler information om et projekt, der skal øge deltagelsen i tarmkræftscreening blandt personer med type 2-diabetes. 
-Her kan du finde indhold målrettet både patienter og almen praksis samt læse mere om projektets formål og kontaktpersoner.
+::: {#listing}
+:::
 
+![](/images/visuelt-saerkende.png){fig-alt="Projektbanner med teksten
+"Spørg til årsstatus – Tarmkræftscreening som en del af
+diabetesomsorgen'. Logoer for Region Midtjylland, Steno Diabetes Center
+Aarhus og Kræftens Bekæmpelse." width="50%" fig-align="center"}
