@@ -13,8 +13,7 @@ listing:
     fields: [title, subtitle]
 ---
 
-
-![illustration](/images/har-du-indsendt.png)
+![](/images/har-du-indsendt.png){fig-alt="Illustration af en læge spørger patient om tarmkræftscreening, der viser tre trin: Spørg, Rådgiv, Tilmeld – på 2 minutter."}
 
 # Velkommen
 
