@@ -7,8 +7,6 @@ website:
   repo-url: "https://github.com/steno-aarhus/spoerg-aarsstatus"
   navbar:
     left: 
-      - text: "For dig med diabetes"
-        href: for-dig-med-diabetes.qmd
       - text: "For almen praksis"
         href: for-almen-praksis.qmd
       - text: "Om projektet"
