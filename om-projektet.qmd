@@ -24,7 +24,7 @@ VBA-metoden består af følgende elementer:
 
 - **Spørg:** "Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?"
 - **Rådgiv:** Giv kort information om øget risiko og mulighederne ved screening
-- **Tilmeld:** Bestil et testkit til patienten
+- **Bestil:** Bestil et testkit til patienten
 
 Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læge, bliver de spurgt:
 
@@ -40,7 +40,7 @@ Derudover indsamles erfaringer via frivillige interviews med både patienter og 
 
 Se figur over projektets flow for den enkelte patient herunder. 
 
-![Projektflow på patientniveau](images/flow-samtykke.png)
+![Projektflow på patientniveau](images/Flow-patient.png)
 
 ## Formål
 Projektet har til formål at:
