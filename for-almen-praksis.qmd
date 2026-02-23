@@ -59,10 +59,19 @@ Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forvent
 Registrering sker via en enkel onlineformular. </details>
 
 <details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
-Som en del af samtalen informeres patienten om projektet og hvilke oplysninger der bruges til forskning. Patienten får udleveret samtykkeerklæring som gennemgåes og underskrives. xxxx. SKAL OPDATERES </details>
+Som en del af den sundhedsfaglige samtale informeres patienten om projektets formål, hvilke oplysninger der videregives, og hvordan oplysningerne anvendes til forskning.
+
+Patienten gives mundtlig information og udleveres en skriftlig samtykkeerklæring, som gennemgås og underskrives.  
+Samtykket omfatter både:
+- videregivelse af relevante oplysninger fra almen praksis til Afdeling for Folkeundersøgelser, og
+- anvendelse af de videregivne oplysninger til forskningsformål i overensstemmelse med sundhedslovens § 10.
+
+Deltagelse er frivillig, og patienten kan til enhver tid trække sit samtykke tilbage uden betydning for den øvrige behandling.
+ </details>
 
  <details> <summary><strong>Hvordan håndteres data og patientoplysninger?</strong></summary>
-Projektet gennemføres i overensstemmelse med gældende regler for databeskyttelse. Der indsamles kun de nødvendige oplysninger, og data behandles fortroligt.
+Projektet gennemføres i overensstemmelse med gældende regler om databeskyttelse og sundhedslovgivning.  
+Der indsamles kun de nødvendige oplysninger, og alle data behandles fortroligt og sikkert.
 </details>
 
  <details> <summary><strong>Er der andre opgaver i almen praksis?</strong></summary>
