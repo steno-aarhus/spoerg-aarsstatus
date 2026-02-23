@@ -43,7 +43,7 @@ Nej. Tilmelding er uforpligtende og fungerer som registrering af interesse. Den 
 <details> <summary><strong>Hvornår starter projektet?</strong></summary> 
 Projektet forventes at starte i september 2026. 
 
-Klinikken gennemfører kort elektronisk oplæringsmateriale og kan derefter begynde at spørge og registrere patienter. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
+Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
 
 📧 tina.quist\@rm.dk  
 
@@ -52,8 +52,8 @@ Klinikken gennemfører kort elektronisk oplæringsmateriale og kan derefter begy
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
 Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
 
- <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
-Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
+ <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
+Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. </details> 
 
 <details> <summary><strong>Hvordan registreres patienterne?</strong></summary> 
 Registrering sker via en enkel onlineformular. </details>
