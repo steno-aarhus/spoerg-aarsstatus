@@ -24,7 +24,7 @@ Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbej
 ## 📋 Tilmelding
 Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026.
 
-Tilmelding er uforpligtende. Når I tilmelder jeres klinik, registreres I som interesserede, og pladser fordeles efter først-til-mølle-princippet. Senest tre hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
+Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest tre hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
 
 Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
 Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
@@ -53,9 +53,15 @@ Klinikken gennemfører kort elektronisk oplæringsmateriale og kan derefter begy
 Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
 
  <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
-Interventionen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
+Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
 <details> <summary><strong>Hvordan registreres patienterne?</strong></summary> 
 Registrering sker via en enkel onlineformular. </details>
+
+ <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
+Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
+
+ <details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
+Som en del af samtalen informeres patienten om projektet og hvilke oplysninger der bruges til forskning. Patienten får udleveret samtykkeerklæring som gennemgåes og underskrives. xxxx. SKAL OPDATERES </details>
 
  <details> <summary><strong>Hvordan håndteres data og patientoplysninger?</strong></summary>
 Projektet gennemføres i overensstemmelse med gældende regler for databeskyttelse. Der indsamles kun de nødvendige oplysninger, og data behandles fortroligt.
