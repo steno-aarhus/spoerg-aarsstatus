@@ -54,13 +54,11 @@ Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nati
 
  <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
 Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
+
 <details> <summary><strong>Hvordan registreres patienterne?</strong></summary> 
 Registrering sker via en enkel onlineformular. </details>
 
- <details> <summary><strong>Hvor meget tid tager indsatsen i konsultationen?</strong></summary> 
-Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. </details> 
-
- <details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
+<details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
 Som en del af samtalen informeres patienten om projektet og hvilke oplysninger der bruges til forskning. Patienten får udleveret samtykkeerklæring som gennemgåes og underskrives. xxxx. SKAL OPDATERES </details>
 
  <details> <summary><strong>Hvordan håndteres data og patientoplysninger?</strong></summary>
