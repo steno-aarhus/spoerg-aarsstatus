@@ -40,7 +40,7 @@ Derudover indsamles erfaringer via frivillige interviews med både patienter og 
 
 Se figur over projektets flow for den enkelte patient herunder. 
 
-![Projektflow på patientniveau](images/projektflow_patient_samtykke.png)
+![Projektflow på patientniveau](images/flow-samtykke.png)
 
 ## Formål
 Projektet har til formål at:
