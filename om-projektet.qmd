@@ -33,12 +33,12 @@ Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læ
 - Hvis patienten **har** deltaget, registreres svaret, og der udleveres informationsmateriale.  
 - Hvis patienten **ikke har** deltaget, gives kort information, og der tilbydes hjælp til at bestille et testkit.
 
-Almen praksis registrerer alle svar og foretager eventuel bestilling via online formular hos Afdeling for Folkesundhed.
+Almen praksis registrerer alle svar, indhenter skriftligt samtykke og foretager eventuel bestilling via online formular hos Afdeling for Folkesundhed.
 
 Efter konsultationen validerer Afdeling for Folkesundhed oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt testkit.  
 Derudover indsamles erfaringer via frivillige interviews med både patienter og praksispersonale.
 
-Se figur over projektets procesflow for den enkelte patient herunder. 
+Se figur over projektets flow for den enkelte patient herunder. 
 
 ![Projektflow på patientniveau](images/projektflow_patient_samtykke.png)
 
