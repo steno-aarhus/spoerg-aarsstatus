@@ -9,7 +9,7 @@ listing:
         - om-projektet.qmd
         - kontakt.qmd
     type: grid
-    sort: [for-dig-med-diabetes.qmd, for-almen-praksis.qmd, om-projektet.qmd, kontakt.qmd]
+    sort: [for-almen-praksis.qmd, om-projektet.qmd, kontakt.qmd]
     grid-columns: 3
     fields: [title, subtitle]
 ---
