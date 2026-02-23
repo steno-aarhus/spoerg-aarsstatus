@@ -1,5 +1,6 @@
 ---
 title: "Om projektet"
+subtitle: "Overblik over projektet"
 ---
 
 ## Baggrund
