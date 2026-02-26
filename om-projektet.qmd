@@ -14,7 +14,7 @@ En kort, struktureret samtale i forbindelse med den årlige diabeteskontrol i al
 
 Forandringsmekanismer der forventes aktiveret:
 
--**Troværdig anbefaling**: Almen praksis er patientens primære guide i sundhedsvæsenet. En direkte opfordring fra egen læge eller praksispersonale fungerer som en stærk katalysator, der øger sandsynligheden for handling væsentligt. 
+- **Troværdig anbefaling**: Almen praksis er patientens primære guide i sundhedsvæsenet. En direkte opfordring fra egen læge eller praksispersonale fungerer som en stærk katalysator, der øger sandsynligheden for handling væsentligt. 
 
 - **Viden og relevans**: Ved at informere om den specifikke sammenhæng mellem T2D og tarmkræft øges patientens oplevede relevans af screening, hvilket styrker motivationen.  
 
