@@ -14,7 +14,7 @@ Indsatsen består af tre enkle trin:
 
 -	Rådgiv kort om øget risiko ved type 2-diabetes og mulighed for screening.
 
--	Bestil screeningskit online, som sendes direkte til patientens hjem.
+-	Bestil prøvetagningssæt online, som sendes direkte til patientens hjem.
 
 Læs mere om projektet, samarebejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
@@ -38,7 +38,7 @@ Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 ### Typiske spørgsmål
 
 <details> <summary><strong>Er tilmelding bindende?</strong></summary> 
-Nej. Tilmelding er uforpligtende og fungerer som registrering af interesse. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
+Nej. Tilmelding er i første omgang uforpligtende. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
 
 <details> <summary><strong>Hvornår starter projektet?</strong></summary> 
 Projektet forventes at starte i september 2026. 
@@ -61,7 +61,7 @@ Registrering sker via en enkel onlineformular. </details>
 <details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
 Som en del af samtalen informeres patienten om projektets formål, hvilke oplysninger der videregives, og hvordan oplysningerne anvendes til forskning.
 
-Patienten gives mundtlig information og udleveres en skriftlig samtykkeerklæring, som gennemgås og underskrives.  
+Patienten gives mundtlig information og der udleveres en skriftlig samtykkeerklæring, som gennemgås og underskrives.  
 Samtykket omfatter både:
  - videregivelse af relevante oplysninger fra almen praksis til Afdeling for Folkeundersøgelser, og
  - anvendelse af de videregivne oplysninger til forskningsformål i overensstemmelse med sundhedslovens § 10.
