@@ -20,9 +20,9 @@ Forandringsmekanismer der forventes aktiveret:
 
 - **Integration i kendte forløb**: Ved at italesætte screening som en fast del af årsstatus for diabetes, bringes emnet op i en legitim og tryg ramme. Patienten skal dermed ikke selv opsøge viden eller tage initiativ.  
 
-- **Reduktion af praktiske barrierer**: Ved at bestille screeningskittet direkte under konsultationen fjernes det administrative led for patienten. Dette sikrer, at overgangen fra viden til handling bliver så gnidningsfri som muligt. 
+- **Reduktion af praktiske barrierer**: Ved at bestille prøvetagningssættet direkte under konsultationen fjernes det administrative led for patienten. Dette sikrer, at overgangen fra viden til handling bliver så gnidningsfri som muligt. 
 
-- **Forstærket handleintention**: Kombinationen af information, en konkret anbefaling og umiddelbar bestilling af kit (med hurtig levering) skaber et momentum, der øger sandsynligheden for, at kittet rent faktisk anvendes og indsendes af patienten.  
+- **Forstærket handleintention**: Kombinationen af information, en konkret anbefaling og umiddelbar bestilling af prøvetagningssæt (med hurtig levering) skaber et momentum, der øger sandsynligheden for, at kittet rent faktisk anvendes og indsendes af patienten.  
 
 
 ## Hvad går projektet ud på?
@@ -37,18 +37,18 @@ VBA-metoden består af følgende elementer:
 
 - **Spørg:** "Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?"
 - **Rådgiv:** Giv kort information om øget risiko og mulighederne ved screening
-- **Bestil:** Bestil et testkit til patienten
+- **Bestil:** Bestil et prøvetagningssæt til patienten
 
 Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læge, bliver de spurgt:
 
 **“Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?”**
 
 - Hvis patienten **har** deltaget, registreres svaret, og der udleveres informationsmateriale.  
-- Hvis patienten **ikke har** deltaget, gives kort information, og der tilbydes hjælp til at bestille et testkit.
+- Hvis patienten **ikke har** deltaget, gives kort information, og der tilbydes hjælp til at bestille et prøvetagningssæt.
 
 Almen praksis registrerer alle svar, indhenter skriftligt samtykke og foretager eventuel bestilling via online formular hos Afdeling for Folkesundhed.
 
-Efter konsultationen validerer Afdeling for Folkesundhed oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt testkit.  
+Efter konsultationen validerer Afdeling for Folkesundhed oplysningerne og sikrer, at patienten får korrekt information og evt. tilsendt prøvetagningssæt.  
 Derudover indsamles erfaringer via frivillige interviews med både patienter og praksispersonale.
 
 Se figur over projektets flow for den enkelte patient herunder. 
