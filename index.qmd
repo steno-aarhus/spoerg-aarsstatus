@@ -26,5 +26,5 @@ læse mere om projektets formål og kontaktpersoner.
 ::: {#listing}
 :::
 
-![](/images/visuelt-saerkende.png){fig-alt="Projektbanner med teksten 'Spørg til årsstatus – Tarmkræftscreening som en del af diabetesomsorgen'. Logoer for Region Midtjylland, Steno Diabetes Center Aarhus og Kræftens Bekæmpelse."
+![](/images/VS.png){fig-alt="Projektbanner med teksten 'Spørg til årsstatus – Tarmkræftscreening som en del af diabetesomsorgen'. Logoer for Region Midtjylland, Steno Diabetes Center Aarhus og Kræftens Bekæmpelse."
 width="50%" fig-align="center"}
