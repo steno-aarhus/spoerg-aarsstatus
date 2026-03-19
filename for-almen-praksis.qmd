@@ -22,7 +22,7 @@ Læs mere om projektet, samarebejdspartnere og metode her: [Om projektet](om-pro
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen.
 
 ## 📋 Tilmelding
-Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026.
+Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 6-9 måneder.
 
 Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest tre hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
 
@@ -41,7 +41,7 @@ Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 Nej. Tilmelding er i første omgang uforpligtende. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
 
 <details> <summary><strong>Hvornår starter projektet?</strong></summary> 
-Projektet forventes at starte i september 2026. 
+Projektet forventes at starte i september 2026 og vare i 6-9 måneder. 
 
 Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
 
@@ -53,7 +53,7 @@ Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter o
 Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
 
  <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
-Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. </details> 
+Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. Alle medarbejdere i klinikken kan gennemføre interventionen og den kan fx implementeres for prøvetagning forud for årsstatus. </details> 
 
 <details> <summary><strong>Hvordan registreres patienterne?</strong></summary> 
 Registrering sker via en enkel onlineformular. </details>
@@ -67,6 +67,9 @@ Samtykket omfatter både:
  - anvendelse af de videregivne oplysninger til forskningsformål i overensstemmelse med sundhedslovens § 10.
 
 Deltagelse er frivillig, og patienten kan til enhver tid trække sit samtykke tilbage uden betydning for den øvrige behandling.
+
+Klinikken noterer samtykke til videregiveelse af oplysninger i patientjournalen og opbevarer skriftlige samtykkeerklæringer, indtil projektet afsluttes og de indsamles af Steno Diabetes Center Aarhus. 
+
  </details>
 
  <details> <summary><strong>Hvordan håndteres data og patientoplysninger?</strong></summary>
