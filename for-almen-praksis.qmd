@@ -50,7 +50,7 @@ Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter o
 ☎️ 24 34 63 47 </details> 
 
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
-Projektet omfatter patienter med type 2-diabetes, som er målgruppe for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
+Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
 
  <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
 Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. Alle medarbejdere i klinikken kan gennemføre interventionen og den kan fx implementeres for prøvetagning forud for årsstatus. </details> 
