@@ -37,14 +37,14 @@ VBA-metoden består af følgende elementer:
 
 - **Spørg:** "Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?"
 - **Rådgiv:** Giv kort information om øget risiko og mulighederne ved screening
-- **Bestil:** Bestil et prøvetagningssæt til patienten
+- **Bestil:** Bestil et prøvesæt 
 
 Når patienter med type 2-diabetes kommer til deres årlige kontrol hos egen læge, bliver de spurgt:
 
 **“Har du indsendt afføringsprøve til tarmkræftscreening inden for de sidste to år?”**
 
 - Hvis patienten **har** deltaget, registreres svaret, og der udleveres informationsmateriale.  
-- Hvis patienten **ikke har** deltaget, gives kort information, og der tilbydes hjælp til at bestille et prøvetagningssæt.
+- Hvis patienten **ikke har** deltaget, gives kort information, og klinikken tilbyder at bestille et prøvetagningssæt.
 
 Almen praksis registrerer alle svar, indhenter skriftligt samtykke og foretager eventuel bestilling via online formular hos Afdeling for Folkesundhed.
 
@@ -65,7 +65,7 @@ Projektet har til formål at:
 
 ## Målgruppe
 - Personer med type 2-diabetes  
-- Alder 50–74 år  
+- Alder 51–74 år  
 - Deltager i årskontrol for diabetes i medvirkende praksisser  
 
 ## Metode
