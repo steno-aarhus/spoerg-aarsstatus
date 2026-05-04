@@ -19,7 +19,7 @@ Indsatsen består af tre enkle trin:
 Læs mere om projektet, samarebejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
 ### Honorar 
-Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen.
+Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 
 ## 📋 Tilmelding
 Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 6-9 måneder.
@@ -50,20 +50,22 @@ Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter o
 ☎️ 24 34 63 47 </details> 
 
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
-Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 50-74 år</details>
+Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 51-74 år</details>
 
  <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
-Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. Alle medarbejdere i klinikken kan gennemføre interventionen og den kan fx implementeres for prøvetagning forud for årsstatus. </details> 
+Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. Alle medarbejdere i klinikken kan gennemføre interventionen og den kan fx implementeres ved prøvetagning forud for årsstatus. </details> 
 
 <details> <summary><strong>Hvordan registreres patienterne?</strong></summary> 
-Registrering sker via en enkel onlineformular. </details>
+Registrering af patienternes udsagn sker via en enkel onlineformular. </details>
 
 <details> <summary><strong>Hvordan indhentes samtykke fra patienterne?</strong></summary> 
 Som en del af samtalen informeres patienten om projektets formål, hvilke oplysninger der videregives, og hvordan oplysningerne anvendes til forskning.
 
-Patienten gives mundtlig information og der udleveres en skriftlig samtykkeerklæring, som gennemgås og underskrives.  
-Samtykket omfatter både:
- - videregivelse af relevante oplysninger fra almen praksis til Afdeling for Folkeundersøgelser, og
+Patienten gives mundtlig information og der udleveres en skriftlig information og en samtykkeerklæring, som gennemgås og underskrives.  
+Samtykket omfatter: 
+
+ - videregivelse af relevante oplysninger fra almen praksis til Afdeling for Folkeundersøgelser, og 
+
  - anvendelse af de videregivne oplysninger til forskningsformål i overensstemmelse med sundhedslovens § 10.
 
 Deltagelse er frivillig, og patienten kan til enhver tid trække sit samtykke tilbage uden betydning for den øvrige behandling.
@@ -78,9 +80,9 @@ Der indsamles kun de nødvendige oplysninger, og alle data behandles fortroligt 
 </details>
 
  <details> <summary><strong>Er der andre opgaver i almen praksis?</strong></summary>
-Ved projektets afslutning indsendes to af klinikkens nøgletal tal via en sikker formular:
+Ved projektets afslutning indsender klinikken ti nøgletal:
 
-- Antal patienter i målgruppen (Type 2-diabetes, 50-74 år)
+- Antal patienter i målgruppen (Type 2-diabetes, 51-74 år)
 - Antal patienter i målgruppen med gennemført årskontrol i projektperioden
 
 Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekstra honorar)
@@ -93,5 +95,4 @@ Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekst
 Herunder finder du relevante materialer:
 
 - **[Lommekort](/STI.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
-- **[Faktaark](/STI.pdf)**: Fakta-ark om sammenhængen mellem diabetes og tarmkræft og information om tarmkræftscreening.
 - **[Patientinformation](/STI.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
