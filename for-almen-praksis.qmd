@@ -14,7 +14,7 @@ Indsatsen består af tre enkle trin:
 
 -	Rådgiv kort om øget risiko ved type 2-diabetes og mulighed for screening.
 
--	Bestil prøvetagningssæt online, som sendes direkte til patientens hjem.
+-	Bestil prøvetagningssæt online. Sættet sendes direkte til patientens adresse.
 
 Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
