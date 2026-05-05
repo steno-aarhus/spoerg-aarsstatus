@@ -94,5 +94,5 @@ Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekst
 ## 📂 Materialer
 Herunder finder du relevante materialer:
 
-- **[Lommekort](/STI.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
+- **[Lommekort](/images/Lommekort.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
 - **[Patientinformation](/images/Patientinformation og samtykke_pilot.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
