@@ -16,7 +16,7 @@ Indsatsen består af tre enkle trin:
 
 -	Bestil prøvetagningssæt online, som sendes direkte til patientens hjem.
 
-Læs mere om projektet, samarebejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
+Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
 ### Honorar 
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
