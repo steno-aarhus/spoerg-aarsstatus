@@ -89,7 +89,8 @@ Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekst
 </details>
 
 ## 💻 E-læring
-
+- **[Instruktionsvideo](/STI)**: Se videoen ved at trykke på linket
+- **[Skriftligt materiale](/STI)**: Kan bruges alene eller som supplement til videoen. 
 
 ## 📂 Materialer
 Herunder finder du relevante materialer:
