@@ -89,7 +89,7 @@ Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekst
 </details>
 
 ## 💻 E-læring
-- **[Instruktionsvideo](/STI)**: Se videoen ved at trykke på linket.
+- **[Instruktionsvideo]{{< video "https://vimeo.com/1189887106" >}}**: Se videoen ved at trykke på linket.
 - **[Skriftligt materiale](/images/Oplæringsmateriale_Tarmkræftscreening som del af årsstatus for diabetes.pdf)**: Kan bruges alene eller som supplement til videoen. 
 
 ## 📂 Materialer
