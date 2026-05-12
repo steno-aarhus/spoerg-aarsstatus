@@ -89,8 +89,8 @@ Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekst
 </details>
 
 ## 💻 E-læring
-- **[Instruktionsvideo](https://vimeo.com/1189887106)**: Se videoen ved at trykke på linket.
-- **[Skriftligt materiale](/images/Oplæringsmateriale_piloten.pdf)**: Kan bruges alene eller som supplement til videoen. 
+- **[Instruktionsvideo](https://vimeo.com/1191666872)**: Se videoen ved at trykke på linket. Videoen kan bruges alene eller somsupplement til det skriftlige materiale.
+- **[Skriftligt materiale](/images/Oplæringsmateriale_pilot.pdf)**: Kan bruges alene eller som supplement til videoen. 
 
 ## 📂 Materialer
 Herunder finder du relevante materialer:
