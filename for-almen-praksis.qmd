@@ -52,6 +52,10 @@ Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter o
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
 Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 51-74 år</details>
 
+<details> <summary><strong>Kan vi gennemføre projektet hos udvalgte behandlere i klinikken?</strong></summary>
+Alle medarbejdere i klinikken kan gennemføre samtalen og projektets procedurer, men det en forudsætning, at klinikken deltager som helhed. Det betyder, at alle patienter i målgruppen i projektperioden skal inkluderes, uanset behandler. Alle årskontroller for diabetes i klinikken skal i projektperioden registreres med ydelseskode 0120.
+</details>
+
  <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
 Relevante medarbejdere gennemfører en kort elektronisk oplæring med et forventet tidsforbrug på ca. 15 minutter. Samtalen kan gennemføres på under 2 minutter pr. patient og er tilrettelagt, så den kan integreres i eksisterende arbejdsgange. Indhentning af samtykke forventes at tage yderligere ca. 2 minutter. Alle medarbejdere i klinikken kan gennemføre interventionen og den kan fx implementeres ved prøvetagning forud for årsstatus. </details> 
 
