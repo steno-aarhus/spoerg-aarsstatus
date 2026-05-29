@@ -101,4 +101,4 @@ Herunder finder du relevante materialer til brug i projektet:
 
 - **[Online formular til registrering af patienter og evt. bestilling af prøvesæt](https://selvbetjening.rm.dk/rm/Login/LoginMitId?returnUrl=/rm/Opret/8da94783df402)**: Tryk her for at komme til login-siden for projektets registreringsformular.
 - **[Lommekort](/images/Lommekort_pilot.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
-- **[Patientinformation](/images/patientinfo&samtykke.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
+- **[Patientinformation](/images/patientinformationogsamtykke.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
