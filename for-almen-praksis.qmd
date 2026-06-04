@@ -19,7 +19,13 @@ Indsatsen består af tre enkle trin:
 Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
 ### Honorar 
-Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
+Klinikken honoreres for følgende projektaktiviteter: 
+
+- 150 kr. pr. registreret patient (uanset screeningsstatus og evt. bestilling af prøvetagningssæt). 
+- 1.000 kr. i administrationshonorar.
+- Enkelte klinikker inviteres til at deltage i et kort opfølgende interview (ekstra honorar).
+
+Honoraret er yderligere specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 
 ## 📋 Tilmelding
 Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 6-9 måneder.
