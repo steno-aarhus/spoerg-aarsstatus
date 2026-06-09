@@ -16,7 +16,7 @@ Indsatsen består af tre enkle trin:
 
 -	Bestil prøvetagningssæt online. Sættet sendes direkte til patientens adresse.
 
-Se mere om opgaverne i almen praksis her: [almen praksis](/images/workflow.pdf)   
+Se mere om opgaverne i almen praksis her: [Almen praksis](images/Workflow_web.pdf)   
 Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
 ### Honorar 
