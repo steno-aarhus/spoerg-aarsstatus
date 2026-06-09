@@ -10,7 +10,7 @@ Indsatsen består af en kort, struktureret samtale, der kan gennemføres på und
 
 Indsatsen består af tre enkle trin:
 
--	Spørg, om patienten har deltaget i tarmkræftscreening.
+-	Spørg, om patienten har deltaget i screening for tarmkræft.
 
 -	Rådgiv kort om øget risiko ved type 2-diabetes og mulighed for screening.
 
