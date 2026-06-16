@@ -39,7 +39,20 @@ Steno Diabetes Center Aarhus
 ![Tina Quist](/images/Tina.jpg){fig-alt="Image of Tina Quist" .profile-picture}
 :::
 
+hidden:::
+*Clara Lyhne Bayer, projektkoordinator*
 
+Steno Diabetes Center Aarhus
+
+📧 clabay\@rm.dk
+
+☎️ 6115 5210
+
+::: text-center
+![Clara Lyhne Bayer](/images/clara.jpg){fig-alt="Image of Clara Lyhne Bayer" .profile-picture}
+:::
+
+:::
 
 <!--
 The "code" for adding a "profile-picture" (which is an image with
