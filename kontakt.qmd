@@ -39,7 +39,7 @@ Steno Diabetes Center Aarhus
 ![Tina Quist](/images/Tina.jpg){fig-alt="Image of Tina Quist" .profile-picture}
 :::
 
-hidden:::
+
 *Clara Lyhne Bayer, projektkoordinator*
 
 Steno Diabetes Center Aarhus
@@ -52,7 +52,6 @@ Steno Diabetes Center Aarhus
 ![Clara Lyhne Bayer](/images/clara.jpg){fig-alt="Image of Clara Lyhne Bayer" .profile-picture}
 :::
 
-:::
 
 <!--
 The "code" for adding a "profile-picture" (which is an image with
