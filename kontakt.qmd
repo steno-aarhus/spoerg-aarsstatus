@@ -49,7 +49,7 @@ Steno Diabetes Center Aarhus
 ☎️ 6115 5210
 
 ::: text-center
-![Clara Lyhne Bayer](/images/clara.jpg){fig-alt="Image of Clara Lyhne Bayer" .profile-picture}
+![Clara Lyhne Bayer](/images/Clara.jpg){fig-alt="Image of Clara Lyhne Bayer" .profile-picture}
 :::
 
 
