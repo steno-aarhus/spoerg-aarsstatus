@@ -38,7 +38,7 @@ Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager
 
 Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 
-**OBS: På grund af stor interesse for projektet er der i øjeblikket venteliste for nye klinikker.**
+**OBS: På grund af stor interesse for projektet er der i øjeblikket venteliste for nye klinikker. Klinikker på venteliste vil blive kontaktet i oktober og evt. tilbudt en plads**
 
 <iframe title="Tilmeldingsformular" src="https://redcap.link/spoerg-aarsstatus" width="100%" height="1000px" style="border: 6px solid black"> </iframe>
 
