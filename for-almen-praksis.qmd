@@ -38,7 +38,7 @@ Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager
 
 Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 
-**OBS: På grund af stor interesse for projektet er der i øjeblikket venteliste for nye klinikker. Klinikker på venteliste vil blive kontaktet i oktober og evt. tilbudt en plads**
+**OBS: På grund af stor interesse for projektet er der i øjeblikket venteliste for nye klinikker. Klinikker på venteliste vil blive kontaktet i oktober og evt. tilbudt en plads**.
 
 <iframe title="Tilmeldingsformular" src="https://redcap.link/spoerg-aarsstatus" width="100%" height="1000px" style="border: 6px solid black"> </iframe>
 
@@ -50,13 +50,13 @@ Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 Nej. Tilmelding er i første omgang uforpligtende. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
 
 <details> <summary><strong>Hvornår starter projektet?</strong></summary> 
-Projektet forventes at starte i september 2026 og vare i 6-9 måneder. 
+Projektet forventes at starte i september 2026 og vare i 6-9 måneder. Hvis klinikker på venteliste tilbydes at deltage i projektet aftales opstartstidpunkt ved indgåelse af samarbejdsaftale.
 
-Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
+Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Clara Lyhne Bayer.
 
-📧 tina.quist\@rm.dk  
+📧 clabay\@rm.dk  
 
-☎️ 24 34 63 47 </details> 
+☎️ 61 15 52 10 </details> 
 
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
 Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 51-74 år</details>
@@ -111,5 +111,5 @@ Herunder finder du relevante materialer til brug i projektet:
 
 - Tryk her: **[Online formular til registrering af patienter og evt. bestilling af prøvesæt](https://selvbetjening.rm.dk/rm/Login/LoginMitId?returnUrl=/rm/Opret/8da94783df402)**: for at komme til login-siden for projektets registreringsformular.
 - **[Lommekort](/images/Lommekort.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
-- **[Patientinformation og samtykkeerkælring](/images/patientinformationogsamtykke.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
+- **[Patientinformation og samtykkeerklæring](/images/patientinformationogsamtykke.pdf)**: Information som udleveres til alle patienter, der registres i projektet. 
 - **[Inspiration til frase](/images/Inspiration til frase.docxf)**: Forslag til frase så projektet ikke glemmes i en travl hverdag.  
